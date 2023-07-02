@@ -38,7 +38,7 @@ A footnote can also have multiple lines[^2].
 
 @Equipo1 Esto es una mención  
 
-| Elemento | Cantidad | Precio |
+| Izquierda | Columna centrada | Derecha |
 | :------- | :------: | -----: |
 | Item 1   | 15       | 150€   |
 | Item 2   | 3250     | 23,65€ |
